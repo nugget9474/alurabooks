@@ -19,3 +19,10 @@
 .container__imagem {
     padding: 1em;
 }
+.cabecalho {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
